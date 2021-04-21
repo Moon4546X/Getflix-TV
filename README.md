@@ -1,2 +1,2 @@
 # Getflix-TV
-Watch Live TV and VOD
+Watch Live TV, Latest Movies and Shows
